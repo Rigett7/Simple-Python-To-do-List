@@ -24,13 +24,13 @@ This project is a great starting point for practicing Python fundamentals like l
 
 1. Clone this repository or download the file:
    ```
-   git clone https://github.com/your-username/todo-app-python.git
+   git clone https://github.com/harshikab2112/Simple-Python-To-do-List.git
 2. Navigate into the project folder:
    ```
-   cd todo-app-python
+   cd simple-python-to-do-list
 3. Run the Python script:
   ```
-  python todo.py
+  python main.py
   ```
 
 ## 📌 Example Usage
