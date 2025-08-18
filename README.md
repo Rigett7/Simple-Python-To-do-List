@@ -29,9 +29,9 @@ This project is a great starting point for practicing Python fundamentals like l
    ```
    cd simple-python-to-do-list
 3. Run the Python script:
-  ```
-  python main.py
-  ```
+   ```
+   python main.py
+   ```
 
 ## 📌 Example Usage
 ```
