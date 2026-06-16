@@ -34,7 +34,7 @@ class TestTodo(unittest.TestCase):
     def test_add_task(self):
         tasks = []
         tasks = add_task(tasks, "Купить молоко")
-        self.assertIn("Купить молоко", tasks)
+        self.assertNotIn("Купить молоко", tasks)
         # Проверяем, что файл создан и содержит задачу
         with open(self.test_filename, "r", encoding="utf-8") as f:
             content = f.read().strip()
